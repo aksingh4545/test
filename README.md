@@ -8,7 +8,6 @@
 5. [How to Run Everything](#how-to-run-everything)
 
 ---
-
 ## 🎯 What is This Project?
 
 ### Simple Explanation
